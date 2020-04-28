@@ -5,6 +5,8 @@
 Trabajo. Análisis del aporte Técnico en Pandemias
 Para esta actividad debe ver películas relacionadas a pandemia, por ejemplo: CONTAGIO, VIRUS o similares.
 
+![Contagio](https://github.com/Practicum42-MP-20201/Tarea1/blob/master/imageMovieContagio.tiff)
+
 *Mira la película por alguna forma de distribución web o TV*
 
 Piensa sobre las oportunidades que tienes si adaptamos el proyecto de trabajo de titulación como apoyo, desde tú propio lugar, puedes dar a las diferentes situaciones que el confinamiento resultante de COVID-19.
