@@ -1,11 +1,10 @@
 # Actividad 1
-## Semana 1
+## Semana 1: Trabajo. Análisis del aporte Técnico en Pandemias
 ### April 13th, 2020
 
-Trabajo. Análisis del aporte Técnico en Pandemias
 Para esta actividad debe ver películas relacionadas a pandemia, por ejemplo: CONTAGIO, VIRUS o similares.
 
-![Pelicula Contagio](https://github.com/Practicum42-MP-20201/Tarea1/blob/master/imageMovieContagio.tiff)
+![Pelicula Contagio](https://github.com/Practicum42-MP-20201/Tarea1/blob/master/contagioMovie.jpg)
 
 *Mira la película por alguna forma de distribución web o TV*
 
