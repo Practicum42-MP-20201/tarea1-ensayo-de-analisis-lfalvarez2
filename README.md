@@ -4,7 +4,7 @@
 
 Para esta actividad debe ver películas relacionadas a pandemia, por ejemplo: CONTAGIO, VIRUS o similares.
 
-![Pelicula Contagio](https://github.com/Practicum42-MP-20201/Tarea1/blob/master/contagioMovie.jpg)
+![Contagio](https://github.com/Practicum42-MP-20201/Tarea1/blob/master/contagioMovie.jpg)
 
 *Mira la película por alguna forma de distribución web o TV*
 
